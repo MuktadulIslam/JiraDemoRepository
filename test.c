@@ -1,4 +1,4 @@
 #include<stdio.h>
-ina main() {
+int main() {
     return 0;
 }
