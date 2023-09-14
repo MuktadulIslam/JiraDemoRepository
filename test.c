@@ -1,5 +1,5 @@
 #include<stdio.h>
 int main() {
-    cout << "djhbdsjhdsskjd"
+    cout << "hello world"
     return 0;
 }
